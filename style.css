@@ -480,30 +480,3 @@ a:hover {
         font-size: 1.5rem;
     }
 }
-
-
- /* GALAZY FOLD AND IPHONE 5/SE */
- @media screen and (max-width: 450px){
-    header {
-        flex-direction: column;
-        gap: 10px;
-    }
-
-    .text button {
-        font-size: 0.9rem;
-        padding: 15px 40px;
-    }
-    
-    .build-community-subsection h3 {
-        font-size: 1.3rem;
-    }
-
-    .build-community-subsection button {
-        font-size: 0.6rem;
-        padding: 10px 20px;
-    }
-
-    .build-community-subsection {
-        padding: 2rem;
-    }
- }
