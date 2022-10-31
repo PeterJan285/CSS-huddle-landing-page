@@ -1,4 +1,4 @@
-# 🛠 JS - Huddle landing page
+# 🛠 CSS - Huddle landing page
 
 # 🔗 [Live Preview](https://635c070dd1057310f618b096--serene-torrone-9aa4d1.netlify.app/)
 ![Design preview](./design/desktop-preview.jpg)
